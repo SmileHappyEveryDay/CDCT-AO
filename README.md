@@ -4,7 +4,7 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green.svg)](https://www.python.org/downloads/)
 [![PyTorch 1.12+](https://img.shields.io/badge/PyTorch-1.12%2B-orange.svg)](https://pytorch.org/)
 
-Official implementation of our International Journal of Intelligent Systems submission:  
+Official implementation of our anonymous journal submission:  
 **"CDCT-AO: A Novel Curiosity-Driven Convolutional Transformer with Adaptive Optimization for Offline-to-Online Multi-Agent Reinforcement Learning"**
 
 [[Paper]](https://albert-jin.github.io/) | [[Project Page]](https://github.com/albert-jin/CDCT-AO) | [[SMAC Benchmark]](https://github.com/oxwhirl/smac)
@@ -146,6 +146,6 @@ If you use this work, please cite:
 @article{shi2025cdctao,
   title={CDCT-AO: A Novel Curiosity-Driven Convolutional Transformer with Adaptive Optimization for Offline-to-Online Multi-Agent Reinforcement Learning},
   author={Shi, Bohang (Equal. Contributed.) and Jin, Weiqiang (Equal. Contributed.) and Zhao, Biao},
-  journal={Machine Learning (under review)},
+  journal={anonymous journal (under review)},
   year={2025},
 }
