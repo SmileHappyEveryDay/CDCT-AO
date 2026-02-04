@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: MAMujoco
+Version: 1.1.0
+Summary: MAMuJoCo - Multi-Agent MuJoCo.
+Home-page: https://github.com/schroederdewitt/multiagent_mujoco
+Author: Christian Schroeder de Witt
+Author-email: cs@robots.ox.ac.uk
+License: Apache 2.0 License
+Keywords: Robotics,MuJoCo,Multi-Agent Reinforcement Learning
+License-File: LICENSE
+Requires-Dist: numpy>=1.22.3
+Requires-Dist: gym==0.12.1
+Requires-Dist: mujoco-py>=2.1.2.14
+Requires-Dist: scipy>=1.8.0
+Requires-Dist: Jinja2>=3.0.3
+Requires-Dist: glfw>=2.5.1
+Requires-Dist: Cython>=0.29.28
+Provides-Extra: dev
+Requires-Dist: pre-commit>=2.0.1; extra == "dev"
+Requires-Dist: black>=19.10b0; extra == "dev"
+Requires-Dist: flake8>=3.7; extra == "dev"
+Requires-Dist: flake8-bugbear>=20.1; extra == "dev"
+
+MAMuJoCo - Multi-Agent MuJoCo
+
+Benchmark for Continuous Multi-Agent Robotic Control, based on OpenAI's Mujoco Gym environments.
+Described in the paper Deep Multi-Agent Reinforcement Learning for Decentralized Continuous Cooperative Control 
+by Christian Schroeder de Witt, Bei Peng, Pierre-Alexandre Kamienny, Philip Torr, Wendelin Böhmer and Shimon Whiteson, 
+Torr Vision Group and Whiteson Research Lab, University of Oxford, 2020
+
+Contact CSDW at cs@robots.ox.ac.uk
